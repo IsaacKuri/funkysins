@@ -5,6 +5,7 @@ window.onload = function() {
     height = canvas.height = window.innerHeight,
     centerX = width * .5,
     centerY = height * .5;
+	//Hola
     
   cartesian();
   //sinoical(30, 40, 4);
