@@ -1,0 +1,2 @@
+# funkysins
+Random sinoical functions.
